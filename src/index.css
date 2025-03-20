@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: "Inter";
+    src: url("/fonts/Inter-24pt-Light.ttf") format("truetype");
+    
+  }
+  
+  :root {
+    --font-inter: "Inter", sans-serif;
+  }
+  
+  body {
+    font-family: "Inter", sans-serif;
+  }
+  
+ 
+  

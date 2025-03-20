@@ -1,0 +1,67 @@
+{
+    "hero": {
+      "intro": "Hi, my name is",
+      "name": "Edita",
+      "description": "Student with practical knowledge in building web applications, focused on gaining knowledge in JavaScript and React.js."
+    },
+    "projects": {
+      "title": "Personal Projects",
+      "weather": {
+        "title": "Weather app (React)",
+        "description": "Weather app that fetches real-time data via API, displaying temperature, air quality, and humidity."
+      },
+      "crud": {
+        "title": "CRUD web application development (React + Redux)",
+        "description": "A React app with Redux, Bootstrap, CRUD, Toastify and local storage."
+      },
+      "calculator": {
+        "title": "Calculator (React)",
+        "description": "Calculator app for basic arithmetic with digit input, operations, clear, and formatted output."
+      },
+      "portfolio": {
+        "title": "Portfolio Website",
+        "description": "A responsive website with HTML, CSS, JS and Bootstrap."
+      },
+      "airapp": {
+        "title": "AirApp",
+        "description": "A Cordova mobile app with Bootstrap and jQuery, featuring search using the Ninjas API."
+      },
+      "cocktail": {
+        "title": "CocktailApp",
+        "description": "A Cordova mobile app with Bootstrap and jQuery, enabling cocktail search by name using the Ninjas API."
+      },
+      "button": "See GitHub"
+    },
+    "education": {
+    "education_title": "Education",
+    "experience_title": "Experience",
+    "skills_title": "Skills",
+    "knowledge_title": "Knowledge",
+    "language_title": "Languages",
+    "degree": {
+      "title": "Master's Degree, Multimedia",
+      "description": "University of North in Varaždin (2023 - Present)"
+    },
+    "experience": {
+      "title": "Mar 2023 - Jul 2023",
+      "description": "Frontend Developer (Internship) - Recent Work"
+    },
+    "skills": {
+      "title": "Problem solving, communication, teamwork",
+      "description": ""
+    },
+    "webdev": {
+      "title": "Web development: HTML, CSS, JavaScript, React, Tailwind CSS, GSAP",
+      "description": ""
+    },
+    "languages": {
+      "title": "Languages: Croatian, English",
+      "description": ""
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "button": "Say Hi 👋"
+  }
+  }
+  

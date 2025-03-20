@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+.active-project {
+    background-color: #230018 !important;
+    border-color: #FF26B7 !important;
+    transition: all 0.5s ease-in-out;
+  }

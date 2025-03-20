@@ -1,0 +1,67 @@
+{
+    "hero": {
+      "intro": "Bok, ja sam",
+      "name": "Edita",
+      "description": "Studentica s praktičnim znanjem o izradi web aplikacija, fokusirana na stjecanje znanja u JavaScriptu i React.js-u."
+    },
+    "projects": {
+      "title": "Osobni projekti",
+      "weather": {
+        "title": "Vremenska prognoza (React)",
+        "description": "Aplikacija koja dohvaća podatke o vremenu u stvarnom vremenu putem API-ja, prikazujući temperaturu, kvalitetu zraka i vlažnost."
+      },
+      "crud": {
+        "title": "CRUD web aplikacija (React + Redux)",
+        "description": "React aplikacija s Reduxom, Bootstrapom, CRUD operacijama, Toastifyjem i lokalnim pohranom podataka."
+      },
+      "calculator": {
+        "title": "Kalkulator (React)",
+        "description": "Aplikacija za osnovne aritmetičke operacije s unosom brojeva, operacijama, brisanjem i formatiranim prikazom rezultata."
+      },
+      "portfolio": {
+        "title": "Portfolio web stranica",
+        "description": "Responzivna web stranica izrađena pomoću HTML-a, CSS-a, JavaScript-a i Bootstrapa."
+      },
+      "airapp": {
+        "title": "AirApp",
+        "description": "Cordova mobilna aplikacija s Bootstrapom i jQueryjem, koja omogućuje pretragu pomoću Ninjas API-ja."
+      },
+      "cocktail": {
+        "title": "CocktailApp",
+        "description": "Cordova mobilna aplikacija s Bootstrapom i jQueryjem, omogućujući pretragu koktela prema imenu putem Ninjas API-ja."
+      },
+      "button": "Pogledaj GitHub"
+    },
+    "education": {
+      "education_title": "Obrazovanje",
+      "experience_title": "Iskustvo",
+      "skills_title": "Vještine",
+      "knowledge_title": "Znanje",
+      "language_title": "Jezici",
+      "degree": {
+        "title": "Magistarski studij, Multimedija",
+        "description": "Sveučilište Sjever u Varaždinu (2023 - sadašnje vrijeme)"
+      },
+      "experience": {
+        "title": "Ožu 2023 - Srp 2023",
+        "description": "Frontend Developer (Praksa) - Recent Work"
+      },
+      "skills": {
+        "title": "Rješavanje problema, komunikacija, timski rad",
+        "description": ""
+      },
+      "webdev": {
+        "title": "Web razvoj: HTML, CSS, JavaScript, React, Tailwind CSS, GSAP",
+        "description": ""
+      },
+      "languages": {
+        "title": "Jezici: Hrvatski, Engleski",
+        "description": ""
+      }
+    },
+    "contact": {
+        "title": "Kontakt",
+        "button": "Pozdrav 👋"
+      }
+  }
+  
