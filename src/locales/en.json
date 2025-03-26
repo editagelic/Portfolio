@@ -38,10 +38,13 @@
     "skills_title": "Skills",
     "knowledge_title": "Knowledge",
     "language_title": "Languages",
-    "degree": {
-      "title": "Master's Degree, Multimedia",
-      "description": "University of North in Varaždin (2023 - Present)"
-    },
+    "degree": 
+      {
+        "title": "Master's Degree, Multimedia",
+        "description": "University of North in Varaždin (2023 - Present)",
+         "title1": "Bachelor's degree, Multimedia, design and application",
+        "description1": "University of North in Varaždin (2020 - 2023)"
+      },
     "experience": {
       "title": "Mar 2023 - Jul 2023",
       "description": "Frontend Developer (Internship) - Recent Work"
@@ -51,7 +54,7 @@
       "description": ""
     },
     "webdev": {
-      "title": "Web development: HTML, CSS, JavaScript, React, Tailwind CSS, GSAP",
+      "title": "Web development: HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap, WordPress, GSAP",
       "description": ""
     },
     "languages": {
@@ -61,7 +64,11 @@
   },
   "contact": {
     "title": "Contact",
-    "button": "Say Hi 👋"
+    "button": "Say Hi 👋",
+    "rights": "All rights reserved.",
+  "madeWith": "This page is built with"
   }
+
+
   }
   

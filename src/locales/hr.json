@@ -40,7 +40,9 @@
       "language_title": "Jezici",
       "degree": {
         "title": "Magistarski studij, Multimedija",
-        "description": "Sveučilište Sjever u Varaždinu (2023 - sadašnje vrijeme)"
+        "description": "Sveučilište Sjever u Varaždinu (2023. - sadašnje vrijeme)",
+        "title1": "Preddiplomski studij, Multimedija, oblikovanje i primjena",
+        "description1": "Sveučilište Sjever u Varaždinu (2020. - 2023.)"
       },
       "experience": {
         "title": "Ožu 2023 - Srp 2023",
@@ -51,17 +53,21 @@
         "description": ""
       },
       "webdev": {
-        "title": "Web razvoj: HTML, CSS, JavaScript, React, Tailwind CSS, GSAP",
+        "title": "Web razvoj: HTML, CSS, JavaScript, React, \nTailwind CSS, Bootstrap, WordPress, GSAP",
         "description": ""
       },
       "languages": {
-        "title": "Jezici: Hrvatski, Engleski",
+        "title": "Hrvatski, Engleski",
         "description": ""
       }
     },
     "contact": {
         "title": "Kontakt",
-        "button": "Pozdrav 👋"
+        "button": "Pozdrav 👋",
+        "rights": "Sva prava zadržana.",
+      "madeWith": "Ova stranica je napravljena pomoću"
       }
+      
+    
   }
   

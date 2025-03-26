@@ -4,6 +4,7 @@ import './index.css'
 import App from './App.jsx'
 import './i18n'; // Dodajemo prijevode
 
+
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <App />

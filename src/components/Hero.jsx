@@ -36,9 +36,9 @@ const Hero = () => {
   }, [t]); // GSAP će se ažurirati kada se jezik promijeni
 
   return (
-    <section className="flex justify-center items-center h-[90vh] px-4 md:px-24 lg:px-48 xl:px-62">
+    <section className="flex justify-center items-center h-[90vh] px-4 md:px-24 lg:px-48 xl:px-62 bg-white dark:bg-gray-900">
       <div className="text-left max-w-7xl w-full pt-50" key={t('hero.intro')}>
-        <h1 className="text-2xl md:text-[40px] lg:text-[40px] xl:text-5xl mb-4 leading-tight">
+        <h1 className="text-3xl md:text-[40px] lg:text-[40px] xl:text-5xl mb-8 leading-tight">
           <span ref={textRef}></span>
           <span ref={nameRef} className="text-[#FF26B7]"></span>
         </h1>
