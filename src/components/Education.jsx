@@ -69,7 +69,7 @@ export default function Education() {
         <div className="relative flex items-center">
           <div ref={fillRef} className="absolute left-0 top-0 w-[4px] h-full bg-[#FF26B7]" />
           
-          <ul ref={listRef} className="ml-6 text-[16px] sm:text-[18px] md:text-[20px] list-none space-y-6">
+          <ul ref={listRef} className="ml-6 text-[16px] sm:text-[18px] md:text-[20px] list-none space-y-6 text-gray-700 dark:text-gray-300">
             {["education_title", "experience_title", "skills_title", "knowledge_title", "language_title"].map((key, i) => (
               <li key={i}>{t(`education.${key}`)}</li>
             ))}
